@@ -30,7 +30,7 @@
    - O token de governança, **MVPToken (MVT)**, será utilizado para votar em propostas e decisões importantes da DAO, como a escolha de ideias de produtos, alocação de recursos para desenvolvimento, e estratégias de marketing.
 
 5. **Mecanismo de Financiamento**
-   - Para captar recursos para a DAO, um modelo de financiamento pode incluir:
+   - Para captar recursos para a DAO, um modelo de financiamento inclui:
 
      - **ICO (Initial Coin Offering)**: Lançamento inicial de MVP Tokens para arrecadar fundos.
      - **Crowdfunding**: Campanhas de financiamento coletivo onde apoiadores recebem MVP Tokens em troca de sua contribuição.
@@ -52,6 +52,6 @@
 
    - **Nome da LLC**: **MVPDAO LLC**
 
-   - **Local de Registro**: Países amigáveis a criptomoedas e DAOs, como Wyoming (EUA), Suíça ou Estônia.
+   - **Local de Registro**: Locais amigáveis a criptomoedas e DAOs, como Wyoming (EUA), Suíça ou Estônia.
 
    - **Objetivo da LLC**: Suporte legal e operacional para a MVPDAO, facilitando contratos, parcerias e gestão financeira em conformidade com as regulamentações.
